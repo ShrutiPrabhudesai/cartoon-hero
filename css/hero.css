@@ -36,7 +36,8 @@ ul{
 	list-style: none;
 	padding: 0;
 	margin: 0;
-	}
+}
+
 a{
 		color: red;
 		text-decoration: none;
@@ -60,8 +61,4 @@ footer ul li{
 	display: inline-block;
 	margin: 0 5px;
 }
-/*<head>
-	<title>Harry Potter</title>
-	<link rel="stylesheet" type="text/css"
-	href="css/hero.css">
 </head>*/

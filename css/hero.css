@@ -44,15 +44,9 @@ a{
  }
 	footer{
 		text-align: center;
-		margin-top: 20px;
-		padding:40px 20px;
 		background-color:#E6E6E6;
-
- 	
-	list-style: none;
-	display: inline-block;
-	margin: 0 5px;
-}
+		list-style: none;
+	    display: inline-block;
 /*<head>
 	<title>Harry Potter</title>
 	<link rel="stylesheet" type="text/css"

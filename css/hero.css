@@ -43,11 +43,12 @@ a{
 
  }
 	footer{
+		text-align: center;
 		margin-top: 20px;
 		padding:40px 20px;
 		background-color:#E6E6E6;
 
- 	text-align: center;
+ 	
 	list-style: none;
 	display: inline-block;
 	margin: 0 5px;

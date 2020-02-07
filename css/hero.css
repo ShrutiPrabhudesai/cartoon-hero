@@ -51,6 +51,7 @@ a{
 	}
 
  footer ul li{
+    display: inline-block;
  	
  	text-align: center;
  	display: inline-block;
